@@ -1,3 +1,3 @@
-module github.com/mgnsharon/go-utils
+module github.com/sprouted-dev/go-utils
 
 go 1.21.1
